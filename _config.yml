@@ -1,0 +1,19 @@
+title: Dews
+email: JordanLJH8@gmail.com
+description: >-
+  Opinions on LLMs and Agents.
+baseurl: ""
+url: "https://jhlimm8.github.io"
+github_username: jhlimm8
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Minima settings
+minima:
+  date_format: "%b %-d, %Y"
+  
+# Show excerpts on the homepage
+show_excerpts: true
